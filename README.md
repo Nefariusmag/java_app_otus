@@ -1,1 +1,2 @@
-# java_app_otus
+# java_app
+Java apps from life and education
